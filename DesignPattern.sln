@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{C30A581A-32AA-4F64-A46B-17F4B3A5CCEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{55C363DA-874B-44F7-8F93-94974A8D156F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{C30A581A-32AA-4F64-A46B-17F4B3A5CCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C30A581A-32AA-4F64-A46B-17F4B3A5CCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C30A581A-32AA-4F64-A46B-17F4B3A5CCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C363DA-874B-44F7-8F93-94974A8D156F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C363DA-874B-44F7-8F93-94974A8D156F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C363DA-874B-44F7-8F93-94974A8D156F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C363DA-874B-44F7-8F93-94974A8D156F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

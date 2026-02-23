@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Comp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{503DEA00-F684-4640-AE91-B025002D06F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{C30A581A-32AA-4F64-A46B-17F4B3A5CCEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{503DEA00-F684-4640-AE91-B025002D06F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{503DEA00-F684-4640-AE91-B025002D06F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{503DEA00-F684-4640-AE91-B025002D06F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C30A581A-32AA-4F64-A46B-17F4B3A5CCEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30A581A-32AA-4F64-A46B-17F4B3A5CCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30A581A-32AA-4F64-A46B-17F4B3A5CCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30A581A-32AA-4F64-A46B-17F4B3A5CCEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
